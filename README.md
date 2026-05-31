@@ -6,7 +6,7 @@
 
 # MioClient
 
-Dude these Russians really know what they are doing In my opinion MioClient is the best client right now
+Dude these Russians really know what they are doing In my opinion MioClient is the best client right now EXCEPT feetplace and automine, its so shit the devs say its a config issue when its really not.
 
 # Who
 
