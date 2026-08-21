@@ -6,7 +6,7 @@
 
 # MioClient
 
-Dude these Russians really know what they are doing In my opinion MioClient is the best client right now EXCEPT feetplace and automine, its so shit the devs say its a config issue when its really not.
+Dude these Russians really know what they are doing In my opinion MioClient is the best client right now EXCEPT feetplace, its so shit the devs say its a config issue when its really not. *On 2.2.2 automine is weird and speedmine wont let you eat.
 
 # Who
 
